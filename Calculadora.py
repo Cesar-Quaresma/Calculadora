@@ -1,4 +1,4 @@
-print("\033[1:32m  Este projeto, visa mostrar uma 'Calculadora' com operações envolvendo 2(dois) números de cada vez, \nhavendo a possibilidade de realizar operações matemáticas como: Adição, Subtração, Multiplicação, e \nDivisão!\033[1:38m")
+print("\033[1:32m  Este projeto, visa mostrar uma 'Calculadora' com operações envolvendo 2(dois) números de cada vez, \nhavendo a possibilidade de realizar operações matemáticas como: Adição, Subtração, Multiplicação, e \nDivisão, direcionada para números inteiros!\033[1:38m")
 resultado = 0
 continuar = 'Ss'
 number3 = 0
